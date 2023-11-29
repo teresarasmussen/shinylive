@@ -1,0 +1,107 @@
+"ACTIVE_STARTDATE","ACTIVE_ENDDATE","PANELID","COUNTRY_NAME","SURVEYID","SURVEYLINK","SURVEYNAME","CREATIONDATE","ENDFIELDDATE","TARGETCOMPLETES","NETSUITEPROJECTCODE","POINTSDEFAULT","POINTSMAX","GRYPHON_SCRIPTNAME.x","FIRSTSTARTTIMESTAMP","LATESTSTARTTIMESTAMP","COMPLETES","INCOMPLETES","QUOTAOUTS","ERROROUTS","SCREENOUTS","QCFAILS","BREAK_RATE","INCIDENCE_RATE","QCFAIL_RATE","LOI_MEDIAN_COMP","LOI_Q3_COMP","LOI_MEDIAN_SCREEN","LOI_Q3_SCREEN","LOI_MEDIAN_QUOTA","LOI_Q3_QUOTA","LOI_MEDIAN_ERR","LOI_Q3_ERR","LOI_MEDIAN_QCFAIL","LOI_Q3_QCFAIL","QC_SCORE","qc_1","qc_2","qc_3","qc_4","bad_1","bad_2","bad_3","bad_4","bad_5","bad_6","bad_7","bad_8","TEAM","GRYPHON_SCRIPTNAME.y","QC_VERSION","AVG_UNDERSTAND","AVG_INTEREST","AVG_FAIRNESS","Total_asked_problems","had_problems","AVG_OVERALL","AUTHORED_LANGUAGE","USED_LOCALES","QSL_SIZE","VARIABLES","WIDGET_COUNT"
+"2023-09-01","2023-09-30",1,"United States of America",554615,"link","Surveyname 2","2023-09-28","2023-09-29",30000,"US7481635",100,500,"G4 script","2023-09-28 02:21:53","2023-09-29 02:09:47",10025,86,0,0,0,0,"1%","100%","0%","0:01:39","0:02:07","","","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Other Hubs","XXX",NA,NA,NA,NA,19832,"2%",7.87,"""en""","[]","{
+  ""lines"": 199,
+  ""size"": 35328
+}","{
+  ""exports"": 5,
+  ""interlude_variables"": 20,
+  ""pdl_sets"": 4,
+  ""pdl_updates"": 1,
+  ""pdl_updates_if0"": 0,
+  ""questions"": 5,
+  ""subquestions"": {
+    ""subquestions_1000_plus"": 0,
+    ""subquestions_100_499"": 0,
+    ""subquestions_500_999"": 0,
+    ""subquestions_all"": 1
+  }
+}","{
+  ""open"": 1,
+  ""scale"": 1,
+  ""single"": 1
+}"
+"2023-09-01","2023-09-30",1,"Canada",551465,"link","Surveyname 3","2023-09-04","2023-09-05",264,"US18320952",250,2000,"G4 script","2023-09-04 01:40:24","2023-09-04 21:51:49",257,8,0,0,0,0,"3%","100%","0%","0:11:32","0:16:11","","","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"XXX","1",8.05,7.66,7.76,196,"4%",7.74,"""en""","[
+  ""en"",
+  ""fr_CA""
+]","{
+  ""lines"": 704,
+  ""size"": 80932
+}","{
+  ""exports"": 23,
+  ""interlude_variables"": 11,
+  ""pdl_sets"": 20,
+  ""pdl_updates"": 2,
+  ""pdl_updates_guarded"": 0,
+  ""pdl_updates_if0"": 0,
+  ""pdl_updates_unguarded"": 2,
+  ""questions"": 23,
+  ""subquestions"": {
+    ""subquestions_1000_plus"": 0,
+    ""subquestions_100_499"": 0,
+    ""subquestions_500_999"": 0,
+    ""subquestions_50_99"": 0,
+    ""subquestions_all"": 8
+  }
+}","{
+  ""language"": 1,
+  ""open"": 2,
+  ""scale"": 8,
+  ""single"": 2
+}"
+"2023-09-01","2023-09-30",133,"Brazil",550155,"link","Surveyname 4","2023-08-23","2023-09-10",2000,"US18320952",750,1500,"G4 script","2023-08-24 02:19:56","2023-09-01 14:07:56",2131,1012,0,0,0,0,"32%","100%","0%","0:16:28","0:23:00","","","","","","","","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"XXX","1",8.04,7.72,NA,NA,NA,7.92,"""pt_BR""","[]","{
+  ""lines"": 560,
+  ""size"": 60188
+}","{
+  ""exports"": 10,
+  ""interlude_variables"": 7,
+  ""pdl_sets"": 14,
+  ""pdl_updates"": 2,
+  ""pdl_updates_guarded"": 2,
+  ""pdl_updates_if0"": 0,
+  ""pdl_updates_unguarded"": 0,
+  ""questions"": 10,
+  ""subquestions"": {
+    ""subquestions_1000_plus"": 0,
+    ""subquestions_100_499"": 0,
+    ""subquestions_500_999"": 0,
+    ""subquestions_50_99"": 0,
+    ""subquestions_all"": 3
+  }
+}","{
+  ""open"": 1,
+  ""scale"": 3,
+  ""single"": 1
+}"
+"2023-09-01","2023-09-30",1,"Canada",551273,"link","Surveyname 5","2023-09-01","2023-10-01",5000,"US26127412",500,500,"G4 script","2023-09-04 11:38:55","2023-10-02 17:18:29",536,25,1,0,0,80,"4%","100%","13%","0:05:01","0:08:02","","","1 day, 2:03:09","1 day, 2:03:09","","","0:01:18","0:01:41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Waterbury (HG)","XXX",NA,8.05,7.11,7.72,271,"2%",7.44,"""en""","[
+  ""fr_CA""
+]","{
+  ""lines"": 1896,
+  ""size"": 356544
+}","{
+  ""exports"": 462,
+  ""interlude_variables"": 115,
+  ""pdl_sets"": 15,
+  ""pdl_updates"": 1,
+  ""pdl_updates_guarded"": 1,
+  ""pdl_updates_if0"": 1,
+  ""pdl_updates_unguarded"": 1,
+  ""questions"": 462,
+  ""subquestions"": {
+    ""subquestions_1000_plus"": 0,
+    ""subquestions_100_499"": 1,
+    ""subquestions_500_999"": 0,
+    ""subquestions_50_99"": 0,
+    ""subquestions_all"": 400
+  }
+}","{
+  ""dropdown"": 2,
+  ""grid"": 5,
+  ""language"": 1,
+  ""multiple"": 5,
+  ""open"": 8,
+  ""open-int"": 1,
+  ""open-intrange"": 1,
+  ""scale"": 4,
+  ""single"": 31,
+  ""single-colorpicker"": 2
+}"
